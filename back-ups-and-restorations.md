@@ -28,7 +28,10 @@ https://www.urbackup.org/
   - Input your Servers IP address
   - You can start your backup or wait for the scheduled date and time.
 
-### Definitions
+#### References 
+-  https://www.urbackup.org/administration_manual.html
+
+#### Definitions
 - Policy -- "why?"; broad, overarching guidance
 - SOP -- Standard Operating procedure, "what, when, why"
 - Work Instructions -- "how"; in-depth, step-by-step directions for a particular task
@@ -39,6 +42,3 @@ https://www.urbackup.org/
 #### Revision History
 - Version 1.0 (2023.11.13): Initial document creation. Hector Cordova
 
-
-#### References 
--  https://www.urbackup.org/administration_manual.html
