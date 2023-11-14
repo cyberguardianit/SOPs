@@ -25,5 +25,5 @@ Managers/Supervisors
 - FOURTH ACTIVITY - ACT
 
 ##  References: 
-- [ChatGpt](https://chat.openai.com/share/52ba4d5c-b97f-4dab-a2bf-c81ce844abda)
+- [ChatGPT](https://chat.openai.com/share/52ba4d5c-b97f-4dab-a2bf-c81ce844abda)
 - [Code Fellows Sample SOP - 201d14 Lab 09](https://codefellows.github.io/ops-201-guide/curriculum/class-09/lab/SOP-new-employee.html)
