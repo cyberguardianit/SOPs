@@ -21,8 +21,10 @@ Managers/Supervisors
 - The new employee has been informed about the company IT policies and procedures.
 
 ## Procedures:
-Preparation: 
-  - Download the email client: Outlook
+Overview: Ensuring new employees have the necessary equipment and email configuration required for daily tasks and communication. 
+1. Setting up account:
+  - On Windows 10 and later, ensure the email cliet (Outlook) is installed. If not, download here: (Outlook for Windows)[]
+  - On Linux machines, download the email client (Outlook for Linux)[https://www.linuxfordevices.com/tutorials/linux/install-outlook-on-linux]
   - Sign into all necessary
 - THIRD ACTIVITY - CHECK
 - FOURTH ACTIVITY - ACT
