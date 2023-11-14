@@ -23,12 +23,13 @@ Managers/Supervisors
 ## Procedures:
 Overview: Ensuring new employees have the necessary equipment and email configuration required for daily tasks and communication. 
 1. Setting up account:
-  - On Windows 10 and later, ensure the email cliet (Outlook) is installed. If not, download here: (Outlook for Windows)[]
-  - On Linux machines, download the email client (Outlook for Linux)[https://www.linuxfordevices.com/tutorials/linux/install-outlook-on-linux]
-  - Sign into all necessary
+  - On Windows 10 and later, ensure the email cliet [Outlook](https://go.microsoft.com/fwlink/p/?linkid=844652) is installed.
+  - On Linux machines, download and install the email client [Outlook](https://www.linuxfordevices.com/tutorials/linux/install-outlook-on-linux).
+  - Sign into all necessary accounts using Microsoft credentials. 
 - THIRD ACTIVITY - CHECK
 - FOURTH ACTIVITY - ACT
 
 ##  References: 
 - [ChatGPT](https://chat.openai.com/share/52ba4d5c-b97f-4dab-a2bf-c81ce844abda)
 - [Code Fellows Sample SOP - 201d14 Lab 09](https://codefellows.github.io/ops-201-guide/curriculum/class-09/lab/SOP-new-employee.html)
+- Outlook for Linux
