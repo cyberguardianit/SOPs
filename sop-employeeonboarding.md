@@ -19,4 +19,11 @@ Managers/Supervisors
 - The new employee has been informed about the company IT policies and procedures.
 
 ## Procedures:
-- 
+- FIRST PREPATORY ACTIVITY - PLAN
+- SECOND ACTIVITY - DO
+- THIRD ACTIVITY - CHECK
+- FOURTH ACTIVITY - ACT
+
+##  References: 
+- [ChatGpt](https://chat.openai.com/share/52ba4d5c-b97f-4dab-a2bf-c81ce844abda)
+- [Code Fellows Sample SOP - 201d14 Lab 09](https://codefellows.github.io/ops-201-guide/curriculum/class-09/lab/SOP-new-employee.html)
