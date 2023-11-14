@@ -9,8 +9,10 @@
 ## Responsibilities:
 IT Department 
   - Responsible for procuring the required hardware and software, setting up email accounts and ensuring proper configuration to software, and providing basic training on technology uses and security protocols.
+
 HR Department
   - Responsible for collecting and verifying the information of a new employee, and requesting the configuration of new accounts by the IT department.
+
 Managers/Supervisors
   - Responsible for supporting new employees in adapting to technology work flows.
 
@@ -19,8 +21,9 @@ Managers/Supervisors
 - The new employee has been informed about the company IT policies and procedures.
 
 ## Procedures:
-- FIRST PREPATORY ACTIVITY - PLAN
-- SECOND ACTIVITY - DO
+Preparation: 
+  - Download the email client: Outlook
+  - Sign into all necessary
 - THIRD ACTIVITY - CHECK
 - FOURTH ACTIVITY - ACT
 
