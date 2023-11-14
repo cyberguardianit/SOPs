@@ -7,9 +7,9 @@ The purpose of this SOP is to provide guidelines for setting up and utilizing On
 This procedure applies to all technical and non-tecnical employees using company computer systems. 
 
 ### Responsiilites: 
-- Implementation: IT Support Technicians and HR
+- Implementation: IT Support Technicians, HR, Onboarding.
 - Following: All employees utilizing computer systems
-- Reviewing: IT Support Management, CTO
+- Reviewing: IT Administrators, CTO
 - Maintaining and Updating: IT Support Technicians in conjuction with HR
 
 ### Prerequisities: 
