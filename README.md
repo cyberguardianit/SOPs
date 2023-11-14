@@ -10,3 +10,4 @@
 - [Secure Data Disposal with DOD Compliance](https://github.com/cyberguardianit/SOPs/blob/main/seattle-ops201d14-Team1-SecureDisposal_SOP.md) Written by: Dominique Bruso 
 - [Getting Started with OneDrive](getting-started-with-onedrive.md) Written by: Tianna Farrow
 - [Administering and Supporting Windows Systems](adminsupport-windows10.md) Written by: Scotty Jokon
+- [Secure Windows 10 endpoint workstations from data loss and malware threats](SecureEndpoint.md)
