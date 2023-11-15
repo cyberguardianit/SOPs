@@ -11,3 +11,4 @@ This repository contains a collection of Standard Operating Procedures (SOPs) wr
 - [Getting Started with OneDrive](getting-started-with-onedrive.md) Written by: Tianna Farrow
 - [Administering and Supporting Windows Systems](adminsupport-windows10.md) Written by: Scotty Jokon
 - [Secure Windows 10 Endpoint Workstations From Data Loss and Malware Threats](SecureEndpoint.md) Written by: Scotty Jokon
+- [Offboarding an Employee](sop-offboardingemployees.md) Written by: Krystal Reid
