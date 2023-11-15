@@ -28,8 +28,8 @@ Preparation:
     - Full name of new employee
     - Employee's position/title
     - Department
-    - Start Date
-    - Email requirements (shared emails, higher levels of access)
+    - Start date 
+    - Email requirements (shared emails, levels of access)
 
 Computer Setup:
   - Create a non-administrator profile for new employees.
@@ -48,3 +48,6 @@ Email Setup:
 ##  References: 
 - [ChatGPT](https://chat.openai.com/share/52ba4d5c-b97f-4dab-a2bf-c81ce844abda)
 - [Code Fellows Sample SOP - 201d14 Lab 09](https://codefellows.github.io/ops-201-guide/curriculum/class-09/lab/SOP-new-employee.html)
+
+## Revision History
+- Version 1.0 (2023.11.14): Initial document creation. Krystal Reid
