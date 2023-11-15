@@ -22,14 +22,29 @@ Managers/Supervisors
 
 ## Procedures:
 Overview: Ensuring new employees have the necessary equipment and email configuration required for daily tasks and communication. 
-1. Setting up account:
-  - On Windows 10 and later, ensure the email cliet [Outlook](https://go.microsoft.com/fwlink/p/?linkid=844652) is installed.
-  - On Linux machines, download and install the email client [Outlook](https://www.linuxfordevices.com/tutorials/linux/install-outlook-on-linux).
-  - Sign into all necessary accounts using Microsoft credentials. 
-- THIRD ACTIVITY - CHECK
-- FOURTH ACTIVITY - ACT
+
+Preparation:
+  HR Department should prove the IT department with all required information for onboarding.
+    - Full name of new employee
+    - Employee's position/title
+    - Department
+    - Start Date
+    - Email requirements (shared emails, higher levels of access)
+
+Computer Setup:
+  - Create a non-administrator profile for new employees.
+  - Allow RDP access for employees that need to be able to remotely access computers while traveling.
+
+Email Setup:
+  1. Create and configure the account:
+    - IT should create a new account for the user, configured with appropriate settings for the users needs.
+       - Set up the account:
+           - On Windows 10 and later, ensure the email client [Outlook](https://go.microsoft.com/fwlink/p/?linkid=844652) is installed.
+           - On Linux machines, download and install the email client [Outlook](https://www.linuxfordevices.com/tutorials/linux/install-outlook-on-linux).
+       - Email Signature Setup:
+           - Assist the new employee in creating a professional email signature, including name, position, contact information, and any other relevant information.
+           - Conduct a brief test to ensure the new employee can send and receive emails.  
 
 ##  References: 
 - [ChatGPT](https://chat.openai.com/share/52ba4d5c-b97f-4dab-a2bf-c81ce844abda)
 - [Code Fellows Sample SOP - 201d14 Lab 09](https://codefellows.github.io/ops-201-guide/curriculum/class-09/lab/SOP-new-employee.html)
-- Outlook for Linux
