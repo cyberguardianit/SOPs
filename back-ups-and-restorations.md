@@ -20,8 +20,8 @@ https://www.urbackup.org/
 
 ### Procedure: 
 1. For Making a Client
-  - Download the client application for the OS (if windows follow https://hndl.urbackup.org/Client/2.5.25/UrBackup%20Client%202.5.25.exe )
-  - Follow the wizard on the installation and do select the recommended settings.
+  - Download the client application for the OS
+  - Follow the wizard on the installation and select the recommended settings.
   - Access the server by right clicking the bottom right corner and right clicking the the UrBackUp client and selecting “Acces/Restore Backups”
   - Settings in the top right corner (if you do not see settings click the UrBackUp logo and it will redirect you.)
   - Navigate to “Internet/Active clients”
