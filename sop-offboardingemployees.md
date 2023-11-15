@@ -1,6 +1,7 @@
 # Standard Operating Procedure: Offboarding an Employee
 
 ## Purpose:
+- This document's purpose is to outline the process of offboarding an employee.
 
 ## Scope:
 
