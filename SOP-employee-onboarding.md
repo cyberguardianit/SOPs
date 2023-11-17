@@ -38,7 +38,7 @@ Computer Setup:
 Email Setup:
   - Set up the account:
     - On both Linux and Windows, create an [Outlook](outlook.com) email address.
-    - Download the email client [Thunderbird](https://www.thunderbird.net/en-US/download/?downloaded=True&download_channel=esr)
+    - Download the email client [Thunderbird](https://www.thunderbird.net/en-US/download/?downloaded=True&download_channel=esr).
     - To set up an existing email address, input the appropriate name, email and password.
     - Select the most appropriate configuration (IMAP recommended), and complete the setup by selecting 'Done'. 
    
