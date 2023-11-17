@@ -37,8 +37,10 @@ Computer Setup:
 
 Email Setup:
   - Set up the account:
-    - On Windows 10 and later, ensure the email client [Outlook](https://go.microsoft.com/fwlink/p/?linkid=844652) is installed.
-    - On Linux machines, download and install the email client [Outlook](https://www.linuxfordevices.com/tutorials/linux/install-outlook-on-linux).
+    - On both Linux and Windows, create an [Outlook](outlook.com) email address.
+    - Download the email client [Thunderbird](https://www.thunderbird.net/en-US/download/?downloaded=True&download_channel=esr)
+    - To set up an existing email address, input the appropriate name, email and password.
+    - Select the most appropriate configuration (IMAP recommended), and complete the setup by selecting 'Done'. 
    
   - Email Signature Setup:
     - Assist the new employee in creating a professional email signature, including name, position, contact information, and any other relevant information.
